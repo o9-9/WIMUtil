@@ -1,0 +1,13 @@
+{
+    "main": {
+        "xamlUrl": "https://github.com/o9-9/WIMUtil/raw/main/xaml/WIMUtilGUI.xaml",
+        "oscdimgURL": "https://github.com/o9-9/WIMUtil/raw/main/assets/executables/oscdimg.exe",
+        "expectedHash": "AB9E161049D293B544961BFDF2D61244ADE79376D6423DF4F60BF9B147D3C78D"
+    },
+    "dev": {
+        "xamlUrl": "https://github.com/o9-9/WIMUtil/raw/dev/xaml/WIMUtilGUI.xaml",
+        "oscdimgURL": "https://github.com/o9-9/WIMUtil/raw/dev/assets/executables/oscdimg.exe",
+        "expectedHash": "AB9E161049D293B544961BFDF2D61244ADE79376D6423DF4F60BF9B147D3C78D"
+    },
+    "defaultBranch": "main"
+}
